@@ -1,0 +1,1 @@
+# To-check-wehether-the-given-string-is-symmertical-or-palindrome
